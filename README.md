@@ -1,12 +1,12 @@
 # Overview
 
-This is a simple express websocket server that allows connections from ComputerCraft computers. ComputerCraft is a mod for Minecraft that allows users to create and program computers using the Lua programming language.
+This is a simple websocket server that allows connections from ComputerCraft computers. ComputerCraft is a mod for Minecraft that allows users to create and program computers using the Lua programming language.
 [CC: Tweaked Documentation](https://tweaked.cc)
 [Install CC: Tweaked from Modrinth](https://modrinth.com/mod/cc-tweaked)
 
 The main point of writing this program is that it includes a simple server that can send/receive commands to a computercraft computer. For example, the reactor-controller program (under cc-scripts/reactor-controller) connects to an extreme reactors reactor, and allows the server in increase or decrease the control rod input by simply typing "insert {amount}" into the CLI on the server.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/nb7iBsyTkcg)
 
 # Network Communication
 
